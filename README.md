@@ -206,7 +206,7 @@ A first-pass interpretation treated falling aggregate loss rate as proof that AI
 
 - `presentation/deck.html` - final HTML presentation deck.
 - `presentation/deck-stage.js` - local deck navigation component.
-- `presentation/AI-in-business-beyond-efficiency.pdf` - exported PDF deck, if present.
+- `presentation/Presentation.pptx` - exported PDF deck, if present.
 - `notebooks/main.ipynb` - final notebook name.
 - `README.md` - project explanation and final conclusions.
 - `config/requirements.txt` - Python environment requirements.
