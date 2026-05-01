@@ -1,0 +1,22 @@
+Generated project assets:
+- images/project_workflow.png
+- images/ai_band_overview.png
+- images/quality_tradeoff.png
+- images/pricing_model_mechanism.png
+- images/seniority_patterns.png
+- images/task_type_heatmap.png
+- images/loss_rate_mix_effect.png
+- images/rework_thresholds.png
+- images/controlled_ai_effects.png
+- images/loss_mix_decomposition.png
+- results/ai_band_summary.csv
+- results/pricing_model_summary.csv
+- results/loss_rate_summary.csv
+- results/loss_rate_by_pricing.csv
+- results/seniority_summary.csv
+- results/task_type_summary.csv
+- results/robustness_summary.csv
+- results/rework_thresholds.csv
+- results/controlled_model_summary.csv
+- results/pricing_mix_shares.csv
+- results/loss_mix_decomposition.csv
